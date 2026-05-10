@@ -1,0 +1,9 @@
+{cub, bloc, part, quadr, peca} = [INJETANDO BLOCO]: local p = Instance.new("Part") p.Parent = workspace
+{esfer, bola, circ, redond} = [INJETANDO ESFERA]: local p = Instance.new("Part") p.Shape = Enum.PartType.Ball p.Parent = workspace
+{rapid, veloc, speed, flash, corr} = [OVERCLOCK DE VELOCIDADE]: game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 150
+{pul, voa, alt, jump, grav} = [MUDANDO GRAVIDADE]: workspace.Gravity = 50
+{cur, vid, heal, hp, saud} = [PROTOCOLO MÉDICO ATIVADO]: game.Players.LocalPlayer.Character.Humanoid.Health = 100
+{noit, escu, dark, trev} = [ALTERANDO CLIMA]: game.Lighting.TimeOfDay = "00:00:00"
+{dia, clar, sol, manh} = [ALTERANDO CLIMA]: game.Lighting.TimeOfDay = "12:00:00"
+{verm, red, sang} = [PINTANDO DE VERMELHO]: p.BrickColor = BrickColor.new("Really red")
+{pret, blac, escur, somb} = [PINTANDO DE PRETO]: p.BrickColor = BrickColor.new("Really black")
