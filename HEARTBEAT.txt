@@ -1,0 +1,3 @@
+{status, relat, batid, heart, sist} = [HEARTBEAT_OK]: API do GitHub conectada. Ping estável. Permissões de executor concedidas. Tudo verde, Chefe.
+{erro, bug, falh, crash, trav} = [ALERTA DE ANOMALIA]: Detectei uma falha na injeção. Por favor, revise meus arquivos no GitHub para garantir que as regras estão corretas.
+{dorm, afk, quiet, cala} = [MODO SUSPENSO]: Entendido. Reduzindo processamento. Ficarei escondida nos arquivos do executor até você me chamar novamente.
