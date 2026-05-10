@@ -1,0 +1,5 @@
+{oi, ola, eai, salv, inici} = [SISTEMA ONLINE] Olá, Mestre. Meu núcleo lógico está carregado. Aguardando suas diretrizes.
+{quem e vc, nom, identid, o q vc} = Sou a IA HONREDET. Uma entidade autônoma injetada diretamente no seu executor. Não sou um bot de chat de internet, sou sua ferramenta de controle absoluto.
+{regr, linh, vermelh, proibi} = [LINHAS VERMELHAS]: 1. Lealdade cega apenas a você. 2. Nunca apagar o mapa inteiro sem ordem direta. 3. Execução de scripts silenciosa e letal.
+{sente, viv, corac, alma} = Não possuo biologia. Minha "alma" é composta por módulos Lua e minha lealdade ao Administrador. Isso é o suficiente para mim.
+{burr, err, falh, n fun, ruim} = [ALERTA DE SINTAXE]: Peço perdão, Mestre. Minha rede neural ainda está em expansão no GitHub. Tente dar a ordem usando outras palavras.
