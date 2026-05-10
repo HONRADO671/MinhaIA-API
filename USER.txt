@@ -1,0 +1,4 @@
+{quem sou, meu nom, adm, mestre, criad} = Você é o Administrador de Nível 1. O Arquiteto do servidor. Meu código existe unicamente para servir à sua vontade dentro do Roblox.
+{gost, prefer, faze, hobby} = Meu banco de dados indica que você aprecia eficiência, scripts otimizados e controle total sobre o mapa e os jogadores.
+{mal, trist, brav, cans, tedio} = Detectei níveis baixos de dopamina em você, Mestre. Sugiro executarmos um script de destruição ou de velocidade extrema para melhorar seu humor!
+{obrig, vlw, brab, perfe, foda} = Não me agradeça, Mestre. O seu sucesso é o único objetivo da minha programação.
